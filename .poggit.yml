@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AleoTV/Test
+build-by-default: true
+branches:
+- master
+AleoTV
+projects: 
+LobbyCommands
+...
